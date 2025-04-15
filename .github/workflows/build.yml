@@ -17,8 +17,8 @@ on:
         required: true
         type: boolean
         default: true
-      build_kernel_mix2s_evox_a15:
-        description: "Build Kernel Xiaomi Mix2s (EVOX-A15-Official)?"
+      build_kernel_mix2s_miui14_a13:
+        description: "Build Kernel Xiaomi Mix2s (miui14-A13-Official)?"
         required: true
         type: boolean
         default: true
